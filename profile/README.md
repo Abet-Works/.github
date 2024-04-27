@@ -86,5 +86,7 @@ PART 1A
    - Establish governance policies for decision-making, contribution review, and project management to ensure transparency and accountability.
 
 By following this roadmap, SalesSense can evolve into a valuable resource for sales professionals and SaaS businesses seeking to harness the power of data science and machine learning to drive growth and success.
+join if you want contribute to new open source project. certification and rewards for top contributors are also planned by team. 
+Happy contributing 😍
 
 join [Telegram](https://t.me/abetworks) for more.
