@@ -1,6 +1,6 @@
 ## Hi there 👋 we are ABETWORKS
 
-[![Telegram](https://https://t.me/abetworks)
+[Telegram](https://t.me/abetworks)
 
 
 
