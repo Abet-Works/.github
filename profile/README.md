@@ -21,6 +21,8 @@ In a world where technological innovation is reshaping industries at an unpreced
 -->
 **ROADMAP FOR CONTRIBUTORS **
 
+PART 1A
+
 1. **Project Description:**
    "SalesSense is an open-source platform designed to leverage data science and machine learning techniques to optimize sales processes and enhance decision-making in sales-related SaaS businesses. By analyzing historical data and predicting future trends, SalesSense empowers sales teams to increase revenue, reduce churn, and maximize profitability."
 
